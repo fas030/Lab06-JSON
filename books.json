@@ -1,0 +1,16 @@
+{
+    "books": [
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerarld",
+            "publicationYear": 1925,
+            "genres": ["FIction", "Classics"]
+        },
+        {
+            "title": "To Kill a Mokingbird",
+            "author": "Harper Lee",
+            "publicationYear": 1968,
+            "genres": ["FIction", "Coming-of-Age"]
+        }
+    ]
+}
